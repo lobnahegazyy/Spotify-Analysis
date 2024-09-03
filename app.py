@@ -1,5 +1,4 @@
 #Libraries that i am going to use
-from matplotlib.text import artist
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
